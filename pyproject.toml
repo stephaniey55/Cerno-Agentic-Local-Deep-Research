@@ -1,0 +1,5 @@
+[project]
+name = "cerno-agentic-local-deep-research"
+version = "0.1.0"
+description = "Cerno is a local-first research platform that leverages agentic AI to break down complex queries into verifiable, multi-step workflows. Switch seamlessly between cloud LLMs and self-hosted models, track every reasoning step, and optimize cost and tokens—all while keeping your data on your machine."
+requires-python = ">=3.10"
