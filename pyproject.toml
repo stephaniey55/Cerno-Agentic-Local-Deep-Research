@@ -5,3 +5,4 @@ description = "Cerno is a local-first research platform that leverages agentic A
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# avoid re-reading the config on every call
